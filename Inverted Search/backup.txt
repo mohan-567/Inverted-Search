@@ -1,0 +1,4 @@
+good 1 file3.txt 1 
+hi 1 file1.txt 1 
+hellooo 2 file3.txt 1 file1.txt 1 
+morning 1 file3.txt 1 
